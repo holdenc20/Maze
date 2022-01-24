@@ -1,7 +1,7 @@
 # Maze
  
 This program makes a 30 by 30 maze and solves it.
-Note: can be adjusted in the MazeRunner class. 
+Note: Size of maze can be adjusted in the MazeRunner class. 
 
 The head of the maze is in the top left and the end is at the bottom right. 
 
