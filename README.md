@@ -9,4 +9,4 @@ The head of the maze is in the top left and the end is at the bottom right.
  
  In order to make this maze not have any cycles, the program keeps adding walls to the maze until
  the maze only has one solution from the start to the end and that the end can be reached from 
- everyother cell.
+ every cell.
