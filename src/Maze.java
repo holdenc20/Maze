@@ -159,7 +159,6 @@ public class Maze extends World {
       }
     }
     cells.get(0).get(0).confirm(false);
-
     cells.get(1).get(0).confirmAll();
     cells.get(0).get(1).confirmAll();
     for (int row = 0; row < dims; row++) {
